@@ -1,0 +1,11 @@
+2026-03-18 10:03:28 - Application started
+2026-03-18 10:03:36 - Employee added: abc
+2026-03-18 10:03:43 - Employee added: pqr
+2026-03-18 10:03:49 - Employee added: amit
+2026-03-18 10:03:56 - Viewed employee list
+2026-03-18 10:04:55 - Employee updated: pqr -> Mahesh
+2026-03-18 10:05:08 - Employee deleted: abc
+2026-03-18 10:05:12 - Viewed employee list
+2026-03-18 10:05:16 - Checked employee count
+2026-03-18 10:05:20 - Employees saved to file
+2026-03-18 10:05:20 - Application closed
